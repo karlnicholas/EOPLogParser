@@ -21,8 +21,11 @@ public class EOPLogParser {
 		List<String> lines = new ArrayList<String>();
 		ByteArrayOutputStream baos = new ByteArrayOutputStream();
 		byte[] bytes = new byte[4096];
-		try (Stream<Path> file = Files.find(Paths.get("C:/Users/karln/Downloads/exportedlogs"), 3,
-				(path, attr) -> path.getFileName().toString().endsWith(".gz"))) {
+		try (Stream<Path> file = Files.find(
+			Paths.get("C:/Users/karln/Downloads/exportedlogs"), 
+			3, 
+			(path, attr) -> path.getFileName().toString().endsWith(".gz"))) 
+		{
 			file.forEach((path) -> {
 				try (GZIPInputStream zip = new GZIPInputStream(Files.newInputStream(path))) {
 					int len;
@@ -35,6 +38,7 @@ public class EOPLogParser {
 					throw new RuntimeException(e);
 				}
 			});
+			file.close();
 		}
 		try (PrintWriter pw = new PrintWriter(Files.newBufferedWriter(Paths.get("parsedlog.txt"), StandardCharsets.UTF_8))) {
 			lines
