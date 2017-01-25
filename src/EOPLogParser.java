@@ -22,8 +22,7 @@ public class EOPLogParser {
 		ByteArrayOutputStream baos = new ByteArrayOutputStream();
 		byte[] bytes = new byte[4096];
 		try (Stream<Path> file = Files.find(
-			Paths.get("C:/Users/karln/Downloads/exportedlogs"), 
-			3, 
+			Paths.get("C:/Users/karln/Downloads/exportedlogs"), 3, 
 			(path, attr) -> path.getFileName().toString().endsWith(".gz"))) 
 		{
 			file.forEach((path) -> {
@@ -45,7 +44,13 @@ public class EOPLogParser {
 				.stream()
 				.filter(l -> (l.contains("GetQuote") || l.contains("Search")))
 				.map(l -> l.split(" \\[main|EncyclophiaOfPhilosophySpeechlet - "))
-				.forEach(e -> pw.println(String.format("%1$tb-%1$td-%1$tY  %2$s", java.time.ZonedDateTime.parse(e[0]), e[2])));
+				.forEach(e -> pw.println(
+					String.format("%1$tb-%1$td-%1$tY  %2$s", 
+						java.time.ZonedDateTime.parse(e[0]), 
+						e[2].replace("Intent = GetQuote", "Random Entry")
+					)
+				)
+			);
 			pw.close();
 		}
 
