@@ -1,383 +1,3 @@
-Dec-25-2016  Intent = GetQuote
-Dec-25-2016  Intent = GetQuote: Gersonides
-Dec-25-2016  Intent = GetQuote: Alexius Meinong
-Dec-25-2016  Search found for ethics. Result: public ethics at entries/publichealth-ethics/
-Dec-25-2016  Intent = GetQuote: Biological Information
-Dec-25-2016  Intent = GetQuote: The Philosophy of Childhood
-Dec-25-2016  Intent = GetQuote: Kant's Philosophy of Science
-Dec-25-2016  Intent = GetQuote: Analytic Philosophy in Early Modern India
-Dec-25-2016  Intent = GetQuote: Gershom Scholem
-Dec-25-2016  Intent = GetQuote: Giacomo Zabarella
-Dec-25-2016  Intent = GetQuote: Generic Generalizations
-Dec-25-2016  Intent = GetQuote: Feminist Perspectives on Science
-Dec-25-2016  Intent = GetQuote: Environmental Ethics
-Dec-25-2016  Intent = GetQuote: Porphyry
-Dec-25-2016  Intent = GetQuote: Political Representation
-Dec-25-2016  Search found for lakatos. Result: Lakatos at entries/lakatos/
-Dec-25-2016  Intent = GetQuote: Lady Damaris Masham
-Dec-25-2016  Intent = GetQuote: Categories
-Dec-25-2016  Search found for ammonius. Result: Ammonius at entries/ammonius/
-Dec-25-2016  Intent = GetQuote: Distributive Justice
-Dec-25-2016  Search found for ethics. Result: public ethics at entries/publichealth-ethics/
-Dec-25-2016  Search found for the good. Result: perfect goodness at entries/perfect-goodness/
-Dec-25-2016  Intent = GetQuote: Abduction
-Dec-25-2016  Intent = GetQuote: Snark
-Dec-25-2016  Intent = GetQuote: The Concept of Evil
-Dec-25-2016  Intent = GetQuote: Hermann Cohen
-Dec-25-2016  Intent = GetQuote: Alfred North Whitehead
-Dec-25-2016  Intent = GetQuote: Secession
-Dec-25-2016  Intent = GetQuote: Jacques Maritain
-Dec-25-2016  Intent = GetQuote: Disjunction
-Dec-25-2016  Intent = GetQuote: Civil Disobedience
-Dec-25-2016  Intent = GetQuote
-Dec-25-2016  Intent = GetQuote
-Dec-25-2016  Intent = GetQuote
-Dec-25-2016  Intent = GetQuote
-Dec-25-2016  Intent = GetQuote: Being and Becoming in Modern Physics
-Dec-25-2016  Intent = GetQuote: Emotion
-Dec-25-2016  Search found for ethics. Result: ethics pregnancy at entries/ethics-pregnancy/
-Dec-25-2016  Search found for philosophy. Result: Mexico philosophy at entries/philosophy-mexico/
-Dec-25-2016  Search found for feminist religion. Result: feminist religion at entries/feminist-religion/
-Dec-25-2016  Intent = GetQuote: The Analysis of Knowledge
-Dec-25-2016  Intent = GetQuote: Walter Burley
-Dec-25-2016  Search found for mythai gurts paradox. Result: paradoxes Zeno at entries/paradox-zeno/
-Dec-25-2016  Intent = GetQuote: Constructive Mathematics
-Dec-25-2016  Search found for bodin. Result: Bodin at entries/bodin/
-Dec-25-2016  Search found for meaning. Result: meaning at entries/meaning/
-Dec-25-2016  Intent = GetQuote: Intersections Between Pragmatist and Continental Feminism
-Dec-25-2016  Intent = GetQuote: Social Networking and Ethics
-Dec-25-2016  Intent = GetQuote: Political Realism in International Relations
-Dec-25-2016  Intent = GetQuote: Theories of Criminal Law
-Dec-25-2016  Intent = GetQuote: Bohmian Mechanics
-Dec-25-2016  Intent = GetQuote: Robert Desgabets
-Dec-25-2016  Intent = GetQuote: Pragmatics
-Dec-25-2016  Intent = GetQuote: Joseph Albo
-Dec-25-2016  Intent = GetQuote: François Poulain de la Barre
-Dec-25-2016  Intent = GetQuote: Logical Pluralism
-Dec-25-2016  Intent = GetQuote: Markets
-Dec-25-2016  Search found for stoicism. Result: Stoicism at entries/stoicism/
-Dec-25-2016  Search found for weyl. Result: Weyl at entries/weyl/
-Dec-26-2016  Intent = GetQuote: Epistemological Problems of Perception
-Dec-25-2016  Search found for criminal. Result: criminal law at entries/criminal-law/
-Dec-25-2016  Search found for criminal. Result: criminal law at entries/criminal-law/
-Dec-25-2016  Search found for criminal. Result: criminal law at entries/criminal-law/
-Dec-25-2016  Intent = GetQuote: Pragmatics
-Dec-25-2016  Intent = GetQuote: The Sophists
-Dec-25-2016  Intent = GetQuote: The Consistent Histories Approach to Quantum Mechanics
-Dec-25-2016  Intent = GetQuote: Monotheism
-Dec-25-2016  Intent = GetQuote: Aristotle's Ethics
-Dec-25-2016  Intent = GetQuote: Intersections Between Analytic and Continental Feminism
-Dec-25-2016  Intent = GetQuote: Reductionism in Biology
-Dec-25-2016  Search found for feminism. Result: psychoanalytic feminism at entries/feminism-psychoanalysis/
-Dec-25-2016  Search found for Christianity. Result: emotion Christian tradition at entries/emotion-Christian-tradition/
-Dec-25-2016  Search found for theology. Result: philosophy and theology at entries/christiantheology-philosophy/
-Dec-25-2016  Search found for god. Result: God concepts at entries/concepts-god/
-Dec-25-2016  Search found for Kierkegaard. Result: Kierkegaard at entries/kierkegaard/
-Dec-25-2016  Search found for birdman Russell. Result: Russell at entries/russell/
-Dec-25-2016  Search found for Karl popper. Result: Popper at entries/popper/
-Dec-25-2016  Intent = GetQuote: Ancient Ethical Theory
-Dec-25-2016  Search found for Schopenhauer. Result: Schopenhauer at entries/schopenhauer/
-Dec-25-2016  Intent = GetQuote: God and Other Necessary Beings
-Dec-25-2016  Search found for Aristotle. Result: Aristotle logic at entries/aristotle-logic/
-Dec-25-2016  Intent = GetQuote: Theory and Observation in Science
-Dec-25-2016  Intent = GetQuote: Constructivism in Metaethics
-Dec-26-2016  Intent = GetQuote: Constitutionalism
-Dec-26-2016  Intent = GetQuote: Dialetheism
-Dec-26-2016  Intent = GetQuote: Respect
-Dec-26-2016  Intent = GetQuote: Epistemic Paradoxes
-Dec-26-2016  Intent = GetQuote: Collective Intentionality
-Dec-26-2016  Intent = GetQuote: Faith
-Dec-26-2016  Intent = GetQuote: Autonomy in Moral and Political Philosophy
-Dec-26-2016  Intent = GetQuote: Species
-Dec-26-2016  Intent = GetQuote: Citizenship
-Dec-26-2016  Intent = GetQuote: Retributive Justice
-Dec-26-2016  Search found for ethics. Result: identity and ethics at entries/identity-ethics/
-Dec-26-2016  Intent = GetQuote: William Stanley Jevons
-Dec-26-2016  Search found for Aristotle. Result: Aristotle at entries/aristotle/
-Dec-26-2016  Intent = GetQuote: Panentheism
-Dec-26-2016  Search found for word or phrase. Result: meaning words at entries/word-meaning/
-Dec-26-2016  Intent = GetQuote: Legal Positivism
-Dec-26-2016  Intent = GetQuote: The Development of Intuitionistic Logic
-Dec-26-2016  Intent = GetQuote: Analogy and Analogical Reasoning
-Dec-26-2016  Intent = GetQuote: Singular Propositions
-Dec-26-2016  Search found for philosophy. Result: Chile philosophy at entries/philosophy-chile/
-Dec-26-2016  Search found for ethics. Result: ethics Descartes at entries/descartes-ethics/
-Dec-26-2016  Intent = GetQuote: Self-Reference
-Dec-26-2016  Intent = GetQuote: John Norris
-Dec-26-2016  Intent = GetQuote: Ernst Cassirer
-Dec-26-2016  Intent = GetQuote: Leibniz's Influence on 19th Century Logic
-Dec-26-2016  Search found for maslow's theory. Result: theories at entries/spacetime-theories/
-Dec-26-2016  Intent = GetQuote: Belief Merging and Judgment Aggregation
-Dec-26-2016  Intent = GetQuote: Thomas of Erfurt
-Dec-26-2016  Intent = GetQuote: Richard the Sophister
-Dec-26-2016  Intent = GetQuote: William James
-Dec-26-2016  Intent = GetQuote: Quantum Theory: von Neumann vs. Dirac
-Dec-26-2016  Intent = GetQuote: Common Knowledge
-Dec-26-2016  Intent = GetQuote: Quantum Entanglement and Information
-Dec-26-2016  Search found for economics. Result: economics at entries/economics/
-Dec-26-2016  Intent = GetQuote: Simpson's Paradox
-Dec-26-2016  Intent = GetQuote: Edmund Husserl
-Dec-26-2016  Intent = GetQuote: Cultural Evolution
-Dec-26-2016  Intent = GetQuote: Shared Agency
-Dec-26-2016  Intent = GetQuote: Alfred Schutz
-Dec-26-2016  Intent = GetQuote: Porphyry
-Dec-26-2016  Intent = GetQuote: William Godwin
-Dec-26-2016  Intent = GetQuote: Zeno's Paradoxes
-Dec-26-2016  Intent = GetQuote: Pacifism
-Dec-26-2016  Intent = GetQuote: Richard Kilvington
-Dec-26-2016  Intent = GetQuote: Connexive Logic
-Dec-26-2016  Intent = GetQuote: Occasionalism
-Dec-26-2016  Intent = GetQuote: Secession
-Dec-26-2016  Intent = GetQuote: Philosophy and Christian Theology
-Dec-26-2016  Intent = GetQuote: Jan Łukasiewicz
-Dec-26-2016  Intent = GetQuote: Psychologism
-Dec-26-2016  Intent = GetQuote: Voltaire
-Dec-26-2016  Intent = GetQuote: Pragmatic Arguments and Belief in God
-Dec-26-2016  Intent = GetQuote: Philodemus
-Dec-26-2016  Intent = GetQuote: Abhidharma
-Dec-26-2016  Intent = GetQuote: David Hartley
-Dec-26-2016  Search found for cynicism. Result: ethics ancient at entries/ethics-ancient/
-Dec-26-2016  Search found for deconstruction is it. Result: Derrida at entries/derrida/
-Dec-26-2016  Search found for ethics. Result: public ethics at entries/publichealth-ethics/
-Dec-26-2016  Intent = GetQuote: Human/Non-Human Chimeras
-Dec-26-2016  Intent = GetQuote: Martin Buber
-Dec-26-2016  Intent = GetQuote: Suicide
-Dec-26-2016  Search found for knowledge. Result: knowledge acquaintance at entries/knowledge-acquaindescrip/
-Dec-26-2016  Intent = GetQuote: Fictionalism in the Philosophy of Mathematics
-Dec-26-2016  Intent = GetQuote: François Poulain de la Barre
-Dec-26-2016  Intent = GetQuote: Gelukpa [dge lugs pa]
-Dec-26-2016  Intent = GetQuote: Word Meaning
-Dec-26-2016  Intent = GetQuote: Equality
-Dec-26-2016  Intent = GetQuote: The Theory of Two Truths in India
-Dec-26-2016  Intent = GetQuote: Moral Character
-Dec-26-2016  Intent = GetQuote: International Distributive Justice
-Dec-26-2016  Search found for ethics. Result: ethics virtue at entries/ethics-virtue/
-Dec-26-2016  Search found for philosophy. Result: philosophy mathematics at entries/philosophy-mathematics/
-Dec-26-2016  Intent = GetQuote: Paul Grice
-Dec-26-2016  Search found for politics. Result: identity politics at entries/identity-politics/
-Dec-26-2016  Intent = GetQuote: The Capability Approach
-Dec-26-2016  Intent = GetQuote: Two-Dimensional Semantics
-Dec-26-2016  Intent = GetQuote: Chaos
-Dec-26-2016  Intent = GetQuote: Chinese Philosophy and Chinese Medicine
-Dec-26-2016  Intent = GetQuote: Metaphysics in Chinese Philosophy
-Dec-26-2016  Intent = GetQuote: Edmund Burke
-Dec-26-2016  Search found for ethics. Result: phenomenological to ethics at entries/ethics-it-phenomenology/
-Dec-26-2016  Intent = GetQuote: Feminist Political Philosophy
-Dec-26-2016  Intent = GetQuote: The Distinction Between Innate and Acquired Characteristics
-Dec-27-2016  Intent = GetQuote: Desire
-Dec-27-2016  Intent = GetQuote: Beardsley's Aesthetics
-Dec-27-2016  Intent = GetQuote: Philosophy of Technology
-Dec-27-2016  Intent = GetQuote: Future Contingents
-Dec-27-2016  Intent = GetQuote: Dutch Book Arguments
-Dec-27-2016  Search found for ethics. Result: ethics Reid at entries/reid-ethics/
-Dec-27-2016  Intent = GetQuote: Philo of Larissa
-Dec-27-2016  Intent = GetQuote: Rights
-Dec-27-2016  Intent = GetQuote: Pietro Pomponazzi
-Dec-27-2016  Intent = GetQuote: Stoicism
-Dec-27-2016  Intent = GetQuote: Reliabilist Epistemology
-Dec-27-2016  Intent = GetQuote: Stanisław Leśniewski
-Dec-27-2016  Intent = GetQuote: World Government
-Dec-27-2016  Intent = GetQuote: Evidence
-Dec-27-2016  Intent = GetQuote: The Ethics of Belief
-Dec-27-2016  Intent = GetQuote: Umar Khayyam
-Dec-27-2016  Intent = GetQuote: John Buridan
-Dec-27-2016  Intent = GetQuote: Medieval Theories of Future Contingents
-Dec-27-2016  Intent = GetQuote: Nominalism in the Philosophy of Mathematics
-Dec-27-2016  Search found for ethics. Result: Chinese ethics at entries/ethics-chinese/
-Dec-27-2016  Intent = GetQuote: Japanese Zen Buddhist Philosophy
-Dec-27-2016  Intent = GetQuote: Infinitary Logic
-Dec-27-2016  Intent = GetQuote: Developmental Biology
-Dec-27-2016  Intent = GetQuote: Feminist Bioethics
-Dec-27-2016  Search found for philosopher. Result: Schleiermacher at entries/schleiermacher/
-Dec-27-2016  Intent = GetQuote: Multiculturalism
-Dec-27-2016  Intent = GetQuote: The Definition of Art
-Dec-27-2016  Intent = GetQuote: Dedekind's Contributions to the Foundations of Mathematics
-Dec-27-2016  Intent = GetQuote: Arthur Schopenhauer
-Dec-27-2016  Intent = GetQuote: Perceptual Experience and Perceptual Justification
-Dec-27-2016  Search found for a brand Blanchard. Result: Fitch's paradox at entries/fitch-paradox/
-Dec-27-2016  Search found for video of ignorance. Result: structuralism physics at entries/physics-structuralism/
-Dec-27-2016  Search found for vano of for ignorance. Result: structuralism physics at entries/physics-structuralism/
-Dec-27-2016  Search found for sale. Result: sale organs at entries/organs-sale/
-Dec-27-2016  Search found for Russell. Result: Russell at entries/russell/
-Dec-27-2016  Intent = GetQuote: Ecology
-Dec-27-2016  Intent = GetQuote: The Hole Argument
-Dec-27-2016  Intent = GetQuote: Theories of the Common Law of Torts
-Dec-27-2016  Search found for war. Result: war at entries/war/
-Dec-27-2016  Search found for ethics. Result: African ethics at entries/african-ethics/
-Dec-27-2016  Intent = GetQuote: Naturalistic Approaches to Social Construction
-Dec-27-2016  Intent = GetQuote: Naturalistic Approaches to Social Construction
-Dec-27-2016  Search found for ethics. Result: ethics pregnancy at entries/ethics-pregnancy/
-Dec-27-2016  Intent = GetQuote: Plato's
-Dec-27-2016  Search found for ethics. Result: African ethics at entries/african-ethics/
-Dec-27-2016  Search found for philosophy. Result: religion philosophy at entries/philosophy-religion/
-Dec-27-2016  Search found for miracles. Result: miracles at entries/miracles/
-Dec-27-2016  Search found for India. Result: India at entries/twotruths-india/
-Dec-27-2016  Search found for 10 numbers. Result: Petersburg paradox at entries/paradox-stpetersburg/
-Dec-27-2016  Intent = GetQuote: Logical Truth
-Dec-28-2016  Intent = GetQuote: The Language of Thought Hypothesis
-Dec-28-2016  Intent = GetQuote: Propositions
-Dec-28-2016  Intent = GetQuote: Justice and Bad Luck
-Dec-28-2016  Intent = GetQuote: The Paradox of Suspense
-Dec-28-2016  Intent = GetQuote: Edmund Burke
-Dec-28-2016  Intent = GetQuote: Plato's Aesthetics
-Dec-28-2016  Intent = GetQuote: Contradiction
-Dec-28-2016  Intent = GetQuote: Anthony Collins
-Dec-29-2016  Intent = GetQuote: Classical Logic
-Dec-28-2016  Search found for ethics. Result: computer and ethics at entries/ethics-computer/
-Dec-28-2016  Intent = GetQuote: Ancient Skepticism
-Dec-28-2016  Intent = GetQuote: John Norris
-Dec-28-2016  Intent = GetQuote: Feminist Perspectives on Disability
-Dec-28-2016  Search found for power. Result: feminist power at entries/feminist-power/
-Dec-28-2016  Search found for power. Result: feminist power at entries/feminist-power/
-Dec-28-2016  Search found for ethics. Result: ethics Reid at entries/reid-ethics/
-Dec-28-2016  Intent = GetQuote: Erotic Art
-Dec-28-2016  Intent = GetQuote: The Logic of Mass Expressions
-Dec-28-2016  Intent = GetQuote: Tropes
-Dec-28-2016  Intent = GetQuote: Plato's Myths
-Dec-28-2016  Intent = GetQuote: Religion and Morality
-Dec-28-2016  Intent = GetQuote: Paul Ricoeur
-Dec-28-2016  Search found for X. Result: scientific reduction at entries/scientific-reduction/
-Dec-28-2016  Intent = GetQuote: Afterlife
-Dec-28-2016  Intent = GetQuote: Kant's Philosophical Development
-Dec-28-2016  Intent = GetQuote: Panpsychism
-Dec-28-2016  Intent = GetQuote: Discourse Representation Theory
-Dec-28-2016  Intent = GetQuote: Quine's New Foundations
-Dec-28-2016  Intent = GetQuote: Fuzzy Logic
-Dec-28-2016  Intent = GetQuote: Existentialist Aesthetics
-Dec-28-2016  Intent = GetQuote: Greek Sources in Arabic and Islamic Philosophy
-Dec-28-2016  Intent = GetQuote: Zeno of Elea
-Dec-28-2016  Intent = GetQuote: Logic and Information
-Dec-28-2016  Intent = GetQuote: The Moral Status of Animals
-Dec-28-2016  Intent = GetQuote: Roderick Chisholm
-Dec-28-2016  Intent = GetQuote: David
-Dec-29-2016  Intent = GetQuote: Associationist Theories of Thought
-Dec-29-2016  Intent = GetQuote: Externalism About Mental Content
-Dec-29-2016  Intent = GetQuote: Feminist Perspectives on Disability
-Dec-29-2016  Intent = GetQuote: Virtue Epistemology
-Dec-29-2016  Intent = GetQuote: Mental Illness
-Dec-29-2016  Intent = GetQuote: Elisabeth, Princess of Bohemia
-Dec-29-2016  Intent = GetQuote: Memory
-Dec-29-2016  Intent = GetQuote: August Wilhelm von Schlegel
-Dec-29-2016  Intent = GetQuote: Double Consciousness
-Dec-29-2016  Intent = GetQuote: Leibniz on the Problem of Evil
-Dec-29-2016  Intent = GetQuote: Idealism
-Dec-29-2016  Search found for philosophy. Result: biology philosophy at entries/biology-philosophy/
-Dec-29-2016  Intent = GetQuote: Friedrich Daniel Ernst Schleiermacher
-Dec-29-2016  Search found for philosophy science Locke. Result: philosophy science Locke at entries/locke-philosophy-science/
-Dec-29-2016  Search found for Spinoza. Result: Spinoza at entries/spinoza/
-Dec-29-2016  Search found for faith. Result: faith at entries/faith/
-Dec-29-2016  Search found for collins. Result: Collins at entries/collins/
-Dec-29-2016  Intent = GetQuote: Erotic Art
-Dec-29-2016  Intent = GetQuote: Happiness
-Dec-29-2016  Intent = GetQuote: The Philosophy of Neuroscience
-Dec-29-2016  Intent = GetQuote: Evolutionary Epistemology
-Dec-29-2016  Intent = GetQuote: Hume's Aesthetics
-Dec-29-2016  Intent = GetQuote: Gilbert Ryle
-Dec-29-2016  Search found for stoicism. Result: Stoicism at entries/stoicism/
-Dec-29-2016  Search found for Aristotle. Result: Aristotle at entries/aristotle/
-Dec-29-2016  Intent = GetQuote: Philosophy of Chemistry
-Dec-29-2016  Intent = GetQuote: Indispensability Arguments in the Philosophy of Mathematics
-Dec-29-2016  Intent = GetQuote: Multiculturalism
-Dec-29-2016  Intent = GetQuote: Dedekind's Contributions to the Foundations of Mathematics
-Dec-29-2016  Intent = GetQuote: Phenomenological Approaches to Ethics and Information Technology
-Dec-29-2016  Search found for attitude. Result: fitting attitude theories at entries/fitting-attitude-theories/
-Dec-29-2016  Search found for Socrates. Result: Socrates at entries/socrates/
-Dec-29-2016  Intent = GetQuote: Plato's
-Dec-29-2016  Intent = GetQuote: Kûkai
-Dec-29-2016  Intent = GetQuote: Lady Anne Conway
-Dec-29-2016  Intent = GetQuote: John Austin
-Dec-29-2016  Intent = GetQuote: Thomas Kuhn
-Dec-29-2016  Intent = GetQuote: Phenomenology of Religion
-Dec-29-2016  Intent = GetQuote: Molyneux's Problem
-Dec-29-2016  Intent = GetQuote: Phenomenological Approaches to Self-Consciousness
-Dec-29-2016  Search found for ethics. Result: ethics Descartes at entries/descartes-ethics/
-Dec-29-2016  Search found for Plato. Result: Plato at entries/plato/
-Dec-29-2016  Intent = GetQuote: Moral Particularism and Moral Generalism
-Dec-29-2016  Intent = GetQuote: Marcus Aurelius
-Dec-29-2016  Intent = GetQuote: Maurice Merleau-Ponty
-Dec-29-2016  Intent = GetQuote: Paul Feyerabend
-Dec-29-2016  Intent = GetQuote: Sounds
-Dec-29-2016  Intent = GetQuote: Necessary and Sufficient Conditions
-Dec-29-2016  Search found for film. Result: film at entries/film/
-Dec-29-2016  Search found for Henry Putnam. Result: Henry Ghent at entries/henry-ghent/
-Dec-29-2016  Search found for metaphysics. Result: metaphysics at entries/metaphysics/
-Dec-29-2016  Intent = GetQuote: Samuel Alexander
-Dec-29-2016  Intent = GetQuote: Maimonides
-Dec-29-2016  Intent = GetQuote: 
-Dec-29-2016  Intent = GetQuote: The Paradox of Suspense
-Dec-29-2016  Intent = GetQuote: Roger Bacon
-Dec-29-2016  Intent = GetQuote: Torture
-Dec-29-2016  Intent = GetQuote: Pythagoreanism
-Dec-29-2016  Intent = GetQuote: Transcendental Arguments
-Dec-29-2016  Intent = GetQuote: Temporal Parts
-Dec-29-2016  Intent = GetQuote: Higher-Order Theories of Consciousness
-Dec-29-2016  Intent = GetQuote: Weakness of Will
-Dec-29-2016  Intent = GetQuote: Color
-Dec-29-2016  Intent = GetQuote: Ancient Political Philosophy
-Dec-29-2016  Intent = GetQuote: Assertion
-Dec-29-2016  Intent = GetQuote: Genetic Drift
-Dec-29-2016  Intent = GetQuote: Personalism
-Dec-29-2016  Intent = GetQuote: Moral Luck
-Dec-29-2016  Intent = GetQuote: Arcesilaus
-Dec-29-2016  Intent = GetQuote: Embodied Cognition
-Dec-30-2016  Intent = GetQuote: Jan Łukasiewicz
-Dec-30-2016  Intent = GetQuote: Medieval Theories of Practical Reason
-Dec-30-2016  Intent = GetQuote: Political Obligation
-Dec-30-2016  Search found for leucippus. Result: Leucippus at entries/leucippus/
-Dec-30-2016  Intent = GetQuote: Philosophy of Economics
-Dec-30-2016  Intent = GetQuote: Truthmakers
-Dec-30-2016  Intent = GetQuote: Antoine Le Grand
-Dec-31-2016  Intent = GetQuote: Modal Logic
-Dec-30-2016  Intent = GetQuote: John Norris
-Dec-30-2016  Intent = GetQuote: Philosophy of Religion
-Dec-30-2016  Intent = GetQuote: Aristotle
-Dec-30-2016  Intent = GetQuote: Postmodernism
-Dec-30-2016  Intent = GetQuote: The Analytic/Synthetic Distinction
-Dec-30-2016  Intent = GetQuote: Artifact
-Dec-30-2016  Intent = GetQuote: Possible Objects
-Dec-30-2016  Intent = GetQuote: Human Rights
-Dec-30-2016  Intent = GetQuote: Spinoza's Physical Theory
-Dec-30-2016  Intent = GetQuote: George Edward Moore
-Dec-30-2016  Intent = GetQuote: Nothingness
-Dec-30-2016  Intent = GetQuote: 19th Century Romantic Aesthetics
-Dec-30-2016  Intent = GetQuote: Peter Damian
-Dec-30-2016  Intent = GetQuote: Scientific Method
-Dec-30-2016  Intent = GetQuote: Alfred Jules Ayer
-Dec-30-2016  Intent = GetQuote: Thomas Jefferson
-Dec-30-2016  Intent = GetQuote: Early Philosophical Interpretations of General Relativity
-Dec-30-2016  Intent = GetQuote: Libertarianism
-Dec-30-2016  Intent = GetQuote: Logic and Probability
-Dec-30-2016  Intent = GetQuote: The Problem of Induction
-Dec-30-2016  Search found for philosophy. Result: Chile philosophy at entries/philosophy-chile/
-Dec-30-2016  Search found for dead. Result: prayer petitionary at entries/petitionary-prayer/
-Dec-30-2016  Search found for metaphysics. Result: metaphysics at entries/metaphysics/
-Dec-30-2016  Intent = GetQuote: Newton's Views on Space, Time, and Motion
-Dec-30-2016  Search found for love. Result: love at entries/love/
-Dec-31-2016  Intent = GetQuote: Petrus Ramus
-Dec-31-2016  Intent = GetQuote: Intellectual Property
-Dec-31-2016  Intent = GetQuote: Moral Character
-Dec-31-2016  Search found for metaphysics. Result: metaphysics at entries/metaphysics/
-Dec-31-2016  Intent = GetQuote: Philosophy for Children
-Dec-31-2016  Intent = GetQuote: Computer Simulations in Science
-Dec-31-2016  Intent = GetQuote: George Edward Moore
-Dec-31-2016  Intent = GetQuote: Walter Burley
-Dec-31-2016  Intent = GetQuote: Loyalty
-Dec-31-2016  Intent = GetQuote: Legal Obligation and Authority
-Dec-31-2016  Intent = GetQuote: Mereology
-Dec-31-2016  Search found for Socrates. Result: Socrates at entries/socrates/
-Dec-31-2016  Intent = GetQuote: Singularities and Black Holes
-Dec-31-2016  Intent = GetQuote: Johann Friedrich Herbart
-Dec-31-2016  Intent = GetQuote: Non-Deductive Methods in Mathematics
-Dec-31-2016  Intent = GetQuote: The Philosophy of Music
-Dec-31-2016  Intent = GetQuote: Feminist Perspectives on Sex and Gender
-Dec-31-2016  Intent = GetQuote: Plato's Middle Period Metaphysics and Epistemology
-Dec-31-2016  Intent = GetQuote: Kant's Critique of Metaphysics
-Dec-31-2016  Intent = GetQuote: Scientific Discovery
-Dec-31-2016  Intent = GetQuote: Quine's New Foundations
-Dec-31-2016  Intent = GetQuote: Freedom of Speech
-Dec-31-2016  Intent = GetQuote: Marriage and Domestic Partnership
-Dec-31-2016  Intent = GetQuote: Lvov-Warsaw School
-Dec-31-2016  Intent = GetQuote: Everett's Relative-State Formulation of Quantum Mechanics
 Jan-01-2017  Intent = GetQuote: Feminist Perspectives on Power
 Jan-01-2017  Intent = GetQuote: Epigenesis and Preformationism
 Jan-01-2017  Intent = GetQuote: Rule Consequentialism
@@ -482,11 +102,13 @@ Jan-04-2017  Intent = GetQuote: Rights
 Jan-05-2017  Search found for Marx. Result: Marx at entries/marx/
 Jan-05-2017  Search found for music. Result: music at entries/music/
 Jan-05-2017  Search found for David Hume. Result: David Hume at entries/hume-newton/
+Jan-05-2017  Intent = GetQuote: Naturalism
 Jan-05-2017  Intent = GetQuote: Jean Bodin
 Jan-05-2017  Intent = GetQuote: Internet Research Ethics
 Jan-05-2017  Intent = GetQuote: The Distinction Between Innate and Acquired Characteristics
 Jan-05-2017  Intent = GetQuote: Pragmatism
 Jan-05-2017  Intent = GetQuote: Civic Humanism
+Jan-05-2017  Intent = GetQuote: Bohmian Mechanics
 Jan-05-2017  Search found for X. Result: scientific reduction at entries/scientific-reduction/
 Jan-05-2017  Intent = GetQuote: Legalism in Chinese Philosophy
 Jan-05-2017  Intent = GetQuote: Henry of Ghent
@@ -511,3 +133,221 @@ Jan-05-2017  Intent = GetQuote: Frege's Theorem and Foundations for Arithmetic
 Jan-05-2017  Search found for paradox suspense. Result: paradox suspense at entries/paradox-suspense/
 Jan-05-2017  Search found for logic. Result: logicism at entries/logicism/
 Jan-05-2017  Search found for ethics. Result: ethics Descartes at entries/descartes-ethics/
+Jan-05-2017  Intent = GetQuote: Isaac Newton
+Jan-05-2017  Search found for consequential Islam. Result: consequentialism at entries/consequentialism/
+Jan-06-2017  Intent = GetQuote: Mohist Canons
+Jan-06-2017  Search found for ethics. Result: identity and ethics at entries/identity-ethics/
+Jan-06-2017  Intent = GetQuote: Fictionalism in the Philosophy of Mathematics
+Jan-06-2017  Search found for parmenides. Result: Parmenides at entries/parmenides/
+Jan-06-2017  Intent = GetQuote: Preferences
+Jan-06-2017  Intent = GetQuote: Aristotle's Natural Philosophy
+Jan-06-2017  Intent = GetQuote: Global Democracy
+Jan-06-2017  Intent = GetQuote: Semantic Conceptions of Information
+Jan-06-2017  Intent = GetQuote: Ibn Sina [Avicenna]
+Jan-06-2017  Intent = GetQuote: Teleological Notions in Biology
+Jan-06-2017  Intent = GetQuote: Christian von Ehrenfels
+Jan-06-2017  Intent = GetQuote: Medieval Skepticism
+Jan-06-2017  Intent = GetQuote: Probability in Medieval and Renaissance Philosophy
+Jan-06-2017  Intent = GetQuote: Hermann Lotze
+Jan-06-2017  Intent = GetQuote: Shared Agency
+Jan-07-2017  Intent = GetQuote: Informal Logic
+Jan-07-2017  Intent = GetQuote: Analogy and Analogical Reasoning
+Jan-07-2017  Intent = GetQuote: Computational Linguistics
+Jan-07-2017  Intent = GetQuote: Naturalism in Epistemology
+Jan-07-2017  Intent = GetQuote: Richard Kilvington
+Jan-07-2017  Intent = GetQuote: Translating and Interpreting Chinese Philosophy
+Jan-07-2017  Search found for 1 hand clapping. Result: dirty hands at entries/dirty-hands/
+Jan-07-2017  Intent = GetQuote: Authenticity
+Jan-07-2017  Search found for sound. Result: sounds at entries/sounds/
+Jan-07-2017  Search found for Leibniz and the encyclopedia philosophy. Result: Leibniz at entries/leibniz/
+Jan-07-2017  Intent = GetQuote: Higher-Order Theories of Consciousness
+Jan-07-2017  Intent = GetQuote: Fallacies
+Jan-07-2017  Intent = GetQuote: Speusippus
+Jan-07-2017  Intent = GetQuote: Democracy
+Jan-07-2017  Intent = GetQuote: Logical Constructions
+Jan-08-2017  Intent = GetQuote: Epistemological Problems of Testimony
+Jan-08-2017  Intent = GetQuote: Color
+Jan-08-2017  Search found for ethics. Result: ethics Leibniz at entries/leibniz-ethics/
+Jan-08-2017  Intent = GetQuote: Paraconsistent Logic
+Jan-08-2017  Intent = GetQuote: Medieval Mereology
+Jan-08-2017  Intent = GetQuote: Otto Neurath
+Jan-08-2017  Intent = GetQuote: William David Ross
+Jan-08-2017  Intent = GetQuote: Franz Brentano
+Jan-08-2017  Intent = GetQuote: The Notation in
+Jan-08-2017  Intent = GetQuote: Haecceitism
+Jan-08-2017  Intent = GetQuote: Wittgenstein's Philosophy of Mathematics
+Jan-08-2017  Intent = GetQuote: Philosophy in Mexico
+Jan-08-2017  Intent = GetQuote: Pleasure
+Jan-09-2017  Search found for Marx. Result: Marx at entries/marx/
+Jan-09-2017  Intent = GetQuote: Scientific Explanation
+Jan-09-2017  Intent = GetQuote: Action
+Jan-09-2017  Intent = GetQuote: Philosophical Issues in Quantum Theory
+Jan-09-2017  Intent = GetQuote: Leibniz on Causation
+Jan-09-2017  Intent = GetQuote: Metaphysics
+Jan-09-2017  Search found for McTaggart. Result: McTaggart at entries/mctaggart/
+Jan-09-2017  Intent = GetQuote: Bayes' Theorem
+Jan-09-2017  Intent = GetQuote: Gilbert Ryle
+Jan-09-2017  Intent = GetQuote: William of Auvergne
+Jan-09-2017  Intent = GetQuote: Empedocles
+Jan-09-2017  Search found for a nominally g.. Result: mathematics nominalism at entries/nominalism-mathematics/
+Jan-09-2017  Intent = GetQuote: Public Justification
+Jan-09-2017  Search found for Simone devil are. Result: Simon Faversham at entries/simon-faversham/
+Jan-09-2017  Search found for up. Result: Petersburg paradox at entries/paradox-stpetersburg/
+Jan-09-2017  Search found for Simone devil bar. Result: Simon Faversham at entries/simon-faversham/
+Jan-09-2017  Intent = GetQuote: Philolaus
+Jan-09-2017  Intent = GetQuote: Logical Pluralism
+Jan-10-2017  Intent = GetQuote: Chinese Philosophy and Chinese Medicine
+Jan-10-2017  Intent = GetQuote: Diodorus Cronus
+Jan-10-2017  Intent = GetQuote: Philosophy of Humor
+Jan-10-2017  Intent = GetQuote: Samuel Clarke
+Jan-10-2017  Intent = GetQuote: The Value of Knowledge
+Jan-10-2017  Intent = GetQuote: Naturalistic Approaches to Social Construction
+Jan-10-2017  Intent = GetQuote: Contemporary Approaches to the Social Contract
+Jan-10-2017  Search found for logic. Result: logic at entries/logic-massexpress/
+Jan-10-2017  Search found for Wittgenstein. Result: Wittgenstein at entries/wittgenstein/
+Jan-10-2017  Search found for logic. Result: logicism at entries/logicism/
+Jan-10-2017  Search found for Aristotle. Result: Aristotle at entries/aristotle/
+Jan-10-2017  Intent = GetQuote: Intuitionism in Ethics
+Jan-11-2017  Intent = GetQuote: Feminist Bioethics
+Jan-11-2017  Intent = GetQuote: Suicide
+Jan-11-2017  Intent = GetQuote: Sidney Hook
+Jan-11-2017  Intent = GetQuote: Saint Anselm
+Jan-11-2017  Intent = GetQuote: Theories of Criminal Law
+Jan-11-2017  Intent = GetQuote: Literary Forms of Medieval Philosophy
+Jan-12-2017  Intent = GetQuote: The Problem of Perception
+Jan-12-2017  Intent = GetQuote: Feminist Perspectives on Science
+Jan-12-2017  Intent = GetQuote: Eugen Rosenstock-Huessy
+Jan-12-2017  Intent = GetQuote: Feminist History of Philosophy
+Jan-12-2017  Intent = GetQuote: Self-Reference
+Jan-12-2017  Intent = GetQuote: Søren Kierkegaard
+Jan-12-2017  Intent = GetQuote: *** fails *** 
+Jan-12-2017  Intent = GetQuote: Concepts of Disease and Health
+Jan-12-2017  Intent = GetQuote: Judah Halevi
+Jan-12-2017  Intent = GetQuote: Croce's Aesthetics
+Jan-13-2017  Intent = GetQuote: Structured Propositions
+Jan-13-2017  Intent = GetQuote: The Problem of Perception
+Jan-13-2017  Search found for philosophy. Result: religion philosophy at entries/philosophy-religion/
+Jan-13-2017  Intent = GetQuote: Voltaire
+Jan-13-2017  Intent = GetQuote: World Government
+Jan-13-2017  Search found for infinite loop. Result: schema at entries/schema/
+Jan-13-2017  Intent = GetQuote: George Berkeley
+Jan-13-2017  Intent = GetQuote: Trinity
+Jan-13-2017  Intent = GetQuote: Qualia
+Jan-13-2017  Intent = GetQuote: Collective Intentionality
+Jan-13-2017  Intent = GetQuote: Ernst Mach
+Jan-13-2017  Intent = GetQuote: Arabic and Islamic Metaphysics
+Jan-13-2017  Intent = GetQuote: Montague Semantics
+Jan-14-2017  Intent = GetQuote: Reid's Ethics
+Jan-14-2017  Intent = GetQuote: *** fails *** 
+Jan-14-2017  Intent = GetQuote: The Definition of Art
+Jan-14-2017  Intent = GetQuote: The Development of Intuitionistic Logic
+Jan-14-2017  Intent = GetQuote: Population Genetics
+Jan-14-2017  Search found for race. Result: race at entries/race/
+Jan-14-2017  Search found for race. Result: race at entries/race/
+Jan-14-2017  Intent = GetQuote: Goodman's Aesthetics
+Jan-14-2017  Intent = GetQuote: Medieval Theories of Future Contingents
+Jan-14-2017  Search found for Arendt. Result: Arendt at entries/arendt/
+Jan-14-2017  Search found for Arabic philosophy. Result: mind Arabic at entries/arabic-islamic-mind/
+Jan-14-2017  Search found for epistemology. Result: epistemology at entries/epistemology/
+Jan-14-2017  Search found for necessary insufficient. Result: necessary and sufficient at entries/necessary-sufficient/
+Jan-14-2017  Search found for a cock meat. Result: intensional transitive verbs at entries/intensional-trans-verbs/
+Jan-14-2017  Search found for Cockney. Result: necessary and sufficient at entries/necessary-sufficient/
+Jan-14-2017  Search found for England. Result: Grand at entries/legrand/
+Jan-14-2017  Search found for Franciscan. Result: Bonaventure at entries/bonaventure/
+Jan-14-2017  Search found for just do it. Result: doing allowing at entries/doing-allowing/
+Jan-14-2017  Search found for lipsius. Result: Justus Lipsius at entries/justus-lipsius/
+Jan-14-2017  Intent = GetQuote: The Traditional Square of Opposition
+Jan-14-2017  Intent = GetQuote: Luitzen Egbertus Jan Brouwer
+Jan-14-2017  Intent = GetQuote: Experiment in Biology
+Jan-14-2017  Intent = GetQuote: Method and Metaphysics in Plato's and
+Jan-15-2017  Intent = GetQuote: Friedrich Hayek
+Jan-15-2017  Intent = GetQuote: Word Meaning
+Jan-15-2017  Intent = GetQuote: Assertion
+Jan-15-2017  Intent = GetQuote: Epicurus
+Jan-15-2017  Search found for Plato's apology. Result: Plato at entries/plato/
+Jan-15-2017  Intent = GetQuote: John Duns Scotus
+Jan-15-2017  Search found for sufficient reason. Result: sufficient reason at entries/sufficient-reason/
+Jan-15-2017  Intent = GetQuote: Formal Learning Theory
+Jan-15-2017  Intent = GetQuote: Philosophy of Medicine
+Jan-15-2017  Intent = GetQuote: Intuition
+Jan-15-2017  Intent = GetQuote: Supervenience
+Jan-15-2017  Search found for death. Result: death at entries/death/
+Jan-15-2017  Intent = GetQuote: Environmental Aesthetics
+Jan-15-2017  Search found for the afterlife. Result: afterlife at entries/afterlife/
+Jan-16-2017  Intent = GetQuote: Disability and Justice
+Jan-16-2017  Intent = GetQuote: Spinoza's Physical Theory
+Jan-16-2017  Intent = GetQuote: Jacques Lacan
+Jan-16-2017  Intent = GetQuote: Proclus
+Jan-16-2017  Intent = GetQuote: Metaphysics
+Jan-16-2017  Intent = GetQuote: Public Health Ethics
+Jan-16-2017  Intent = GetQuote: Saint Anselm
+Jan-16-2017  Intent = GetQuote: Contractualism
+Jan-16-2017  Intent = GetQuote: Vasubandhu
+Jan-16-2017  Search found for a word phrase. Result: words meaning at entries/word-meaning/
+Jan-16-2017  Search found for no I'm Chomsky. Result: Wilhelm Humboldt at entries/wilhelm-humboldt/
+Jan-16-2017  Search found for ethics. Result: ethics Reid at entries/reid-ethics/
+Jan-16-2017  Intent = GetQuote: Charlie Dunbar Broad
+Jan-16-2017  Search found for ethics. Result: ethics business at entries/ethics-business/
+Jan-16-2017  Search found for ethics. Result: game and ethics at entries/game-ethics/
+Jan-17-2017  Intent = GetQuote: Virtue Epistemology
+Jan-17-2017  Intent = GetQuote: Pantheism
+Jan-17-2017  Intent = GetQuote: Science and Chinese Philosophy
+Jan-17-2017  Intent = GetQuote: Fideism
+Jan-17-2017  Intent = GetQuote: Theophrastus
+Jan-17-2017  Intent = GetQuote: Abilities
+Jan-17-2017  Intent = GetQuote: Petrus Ramus
+Jan-17-2017  Intent = GetQuote: Method and Metaphysics in Plato's and
+Jan-17-2017  Intent = GetQuote: Descartes' Ethics
+Jan-17-2017  Search found for events. Result: events at entries/events/
+Jan-17-2017  Intent = GetQuote: James Ward
+Jan-17-2017  Intent = GetQuote: Philosophy of Linguistics
+Jan-17-2017  Intent = GetQuote: The Literal-Nonliteral Distinction in Classical Indian Philosophy
+Jan-17-2017  Intent = GetQuote: Weakness of Will
+Jan-18-2017  Intent = GetQuote: Dedekind's Contributions to the Foundations of Mathematics
+Jan-18-2017  Intent = GetQuote: Mysticism in Arabic and Islamic Philosophy
+Jan-18-2017  Intent = GetQuote: Intuitionism in Ethics
+Jan-18-2017  Intent = GetQuote: Perceptual Experience and Perceptual Justification
+Jan-19-2017  Intent = GetQuote: Intuitionism in Ethics
+Jan-19-2017  Intent = GetQuote: 18th Century French Aesthetics
+Jan-19-2017  Intent = GetQuote: Jacques Maritain
+Jan-19-2017  Intent = GetQuote: Hermann Cohen
+Jan-19-2017  Intent = GetQuote: The Epistemic Basing Relation
+Jan-20-2017  Intent = GetQuote: Republicanism
+Jan-20-2017  Intent = GetQuote: Feminist Philosophy of Language
+Jan-20-2017  Intent = GetQuote: Conservation Biology
+Jan-20-2017  Intent = GetQuote: Philip the Chancellor
+Jan-20-2017  Intent = GetQuote: Privacy and Information Technology
+Jan-20-2017  Intent = GetQuote: Pufendorf's Moral and Political Philosophy
+Jan-21-2017  Intent = GetQuote: Structural Realism
+Jan-21-2017  Intent = GetQuote: Wilhelm Dilthey
+Jan-21-2017  Intent = GetQuote: Lucretius
+Jan-21-2017  Intent = GetQuote: John Buridan
+Jan-21-2017  Search found for ethics. Result: search and ethics at entries/ethics-search/
+Jan-21-2017  Intent = GetQuote: Ibn Sina [Avicenna]
+Jan-21-2017  Intent = GetQuote: Categories
+Jan-21-2017  Intent = GetQuote: Free Logic
+Jan-21-2017  Intent = GetQuote: Peirce's Deductive Logic
+Jan-21-2017  Intent = GetQuote: Skepticism and Content Externalism
+Jan-21-2017  Intent = GetQuote: Torture
+Jan-21-2017  Intent = GetQuote: Pregnancy, Birth, and Medicine
+Jan-21-2017  Intent = GetQuote: Giambattista Vico
+Jan-21-2017  Intent = GetQuote: Constitutionalism
+Jan-21-2017  Intent = GetQuote: Feminist Moral Psychology
+Jan-22-2017  Intent = GetQuote: Assertion
+Jan-22-2017  Intent = GetQuote: Bernard Williams
+Jan-22-2017  Intent = GetQuote: The Consistent Histories Approach to Quantum Mechanics
+Jan-22-2017  Intent = GetQuote: Psychoanalytic Feminism
+Jan-22-2017  Search found for logicism. Result: logicism at entries/logicism/
+Jan-22-2017  Intent = GetQuote: Auditory Perception
+Jan-22-2017  Search found for exit ethics. Result: phenomenological to ethics at entries/ethics-it-phenomenology/
+Jan-22-2017  Intent = GetQuote: Isaac Newton
+Jan-23-2017  Intent = GetQuote: Introspection
+Jan-23-2017  Intent = GetQuote: Foundationalist Theories of Epistemic Justification
+Jan-23-2017  Intent = GetQuote: Medieval Theories of Practical Reason
+Jan-23-2017  Intent = GetQuote: Henry David Thoreau
+Jan-23-2017  Intent = GetQuote: African Sage Philosophy
+Jan-23-2017  Intent = GetQuote: Thomas Hobbes
+Jan-24-2017  Intent = GetQuote: Moral Realism
+Jan-24-2017  Intent = GetQuote: Spinoza's Physical Theory
+Jan-25-2017  Intent = GetQuote: Set Theory
+Jan-25-2017  Intent = GetQuote: Chance versus Randomness
